@@ -3,7 +3,7 @@
         'name' => 'magpie/scrape-challenge',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'e428940a3fe89e63990c11c7b6627e5e2f006b77',
+        'reference' => 'bed15a70b4ea9dd28664b3f0203131c626815f61',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -40,7 +40,7 @@
         'magpie/scrape-challenge' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'e428940a3fe89e63990c11c7b6627e5e2f006b77',
+            'reference' => 'bed15a70b4ea9dd28664b3f0203131c626815f61',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
